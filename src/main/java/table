@@ -1,0 +1,2 @@
+select * from farmer;
+select * from product;
